@@ -1,0 +1,11 @@
+# config.yml
+scrambleWords:
+#  - SLIME
+#  - MILES
+#  - STACK
+  - JAVA
+  - SMILE
+  - NERD
+  - LAURA SMELLS
+gameInterval: 20 # Time in minutes
+timeoutSeconds: 15 # Time in seconds
