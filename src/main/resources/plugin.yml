@@ -1,0 +1,4 @@
+name: PFChatGames
+version: '${project.version}'
+main: me.rimon.pfchatgames.PFChatGames
+api-version: '1.20'
